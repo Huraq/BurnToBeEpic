@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/Scenes/Main Menu.unity
+    guid: 09e818959d4499749b61decf8a642a01
+  - enabled: 1
+    path: Assets/Scenes/Select Save.unity
+    guid: dabefbc0de9127d49ac70cb721d28bfb
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 0f270212c938cbd419d99e299efe82fc
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a37a5733a5d4dac40a6d8277ce472111
+  - enabled: 1
+    path: Assets/Scenes/Levels/Volcano_Alpha.unity
+    guid: 5f15d881787746c47a0a67d91af7f22d
   m_configObjects: {}
